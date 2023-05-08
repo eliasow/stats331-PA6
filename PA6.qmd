@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Ben, Elias, Kyle"
 format: html
 editor: visual
 self-contained: true
